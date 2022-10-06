@@ -1,4 +1,4 @@
-//Program using the long keyword
+//swapping the two variables value using temporary variable temperature 
 #include<stdio.h>
 main()
 {
